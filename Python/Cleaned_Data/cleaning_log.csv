@@ -1,0 +1,6 @@
+file,rows_before,rows_after,rows_removed,actions_applied,issues_preserved
+2019-Oct.csv,4102283,4102283,0,Converted event_time to UTC and trimmed text columns,"Missing values and unusual prices kept; exact repeats not removed. Duplicate check covered only the first 10,000 October rows."
+2019-Nov.csv,4635837,4635837,0,Converted event_time to UTC and trimmed text columns,"Missing values and unusual prices kept; exact repeats not removed. Duplicate check covered only the first 10,000 October rows."
+2019-Dec.csv,3533286,3533286,0,Converted event_time to UTC and trimmed text columns,"Missing values and unusual prices kept; exact repeats not removed. Duplicate check covered only the first 10,000 October rows."
+2020-Jan.csv,4264752,4264752,0,Converted event_time to UTC and trimmed text columns,"Missing values and unusual prices kept; exact repeats not removed. Duplicate check covered only the first 10,000 October rows."
+2020-Feb.csv,4156682,4156682,0,Converted event_time to UTC and trimmed text columns,"Missing values and unusual prices kept; exact repeats not removed. Duplicate check covered only the first 10,000 October rows."
